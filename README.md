@@ -151,6 +151,25 @@ Higher PWM significantly improved detection speed and consistency.
 
 ---
 
+##  Contributors
+
+### Naman Samadhiya
+- Hardware setup
+- Arduino implementation
+- Data analysis
+- Testing and validation
+- Result generation
+
+### Roumak Saha
+- Control system modeling
+- Literature survey
+- Documentation
+
+### Siddhant Pandey
+- Research support
+- Testing assistance
+
+---
 
 ## 🔬 Future Scope
 
